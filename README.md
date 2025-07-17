@@ -1,8 +1,4 @@
-# SmartAssistant
-Visual Studio, Forms, c#, sql, Access DB
-This is a personalization app who someone
-can make a plan for his day, can manage
-home devices and can manage a smart feeder
-for his pets
-
-This project focuses on userfriendly UI
+# Smart Assistant
+A personalized assistant app built with C# and Windows Forms in Visual Studio, using an Access database. 
+Users can plan their day, manage smart home devices, and control an automated pet feeder. 
+The project emphasizes a user-friendly interface and practical daily functionality.
